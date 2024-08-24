@@ -6,6 +6,7 @@ tags:
 URL: https://at.amulet.garden/collection
 related:
   - "[[Eye of the Beholder]]"
+  - "[[🗺️ Crypto Art|Crypto Art]]"
 publish: "true"
 ---
 
