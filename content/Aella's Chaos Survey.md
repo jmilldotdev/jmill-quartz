@@ -3,7 +3,6 @@ aliases:
   - Aella's Chaos Survey
 tags:
   - sources/bookmark
-  - status/integrate
 URL: https://www.guidedtrack.com/programs/xw1g78b/run
 related:
   - "[[Good Questions]]"
