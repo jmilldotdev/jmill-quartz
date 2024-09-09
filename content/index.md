@@ -1,48 +1,22 @@
 ---
-aliases: 
-tags: 
-SEKSI: 🦂 Scratch
-related:
+related: 
+publish: true
 ---
 
-## Projects
 
-### Selected Projects:
 
-[[Mulabonding]] - 40 people and 5 chatbots write a book together
+Welcome to the online home of jmill. Software engineer, creative, game developer, world traveller, alternative community explorer.
 
-### BCAD Projects
+## What's here?
 
-[[EIBG]] - Emotional Intelligence Board Game. A connective card game for 2-6.
+[[Projects]] - A list of the cool projects I've worked on.
 
-[[Spaghettify]] - A VSCode extension that makes your code worse with AI
+#sources/bookmark - Tons of cool things I've bookmarked across the web, for your viewing pleasure.
 
-[[Coke Diffusion]] - A Twitter Bot that gives you a Real Magic™️ Coca-Cola themed image based on your prompt
+## Where to find me:
 
-[[Vibe Check]] - A real-time, anonymous app for gathering crowd feedback
+[BCAD](https://bcad.one) - Creative Studio, cofounded with my partner Lucy
 
-[[Bombay Beachy Yami-Ichi]] - An IRL internet crafts market & showcase held in the middle of the SoCal desert
+[Twitter](https://twitter.com/jmilldotdev)
 
-### Hackathon Projects
-
-[[Swappy]] - Natural language interface for the Squid Router API (ETHDenver 2023 Finalist)
-
-[[Pepperstake]] - Social accountability protocol built on Ethereum (ETH SF 2022 Pool Finalist)
-
-[[Roadmaps NFT]] - Generative roadmaps for NFT projects, on-chain (NFTHack 2022)
-
-### Obsidian Plugins
-
-[[Obsidian Wikipedia]] - Gets the Wikipedia overview for a given note
-
-[[Obsidian Canvas Randomnote]] - Adds a selection of random notes to the Obsidian Canvas
-
-[[Obsidian GPT]] - Probably the first LLM plugin for Obsidian (deprecated)
-
-[[Obsidian Frontmatter Tag Suggest]] - auto-completes tags in the YAML frontmatter. (deprecated)
-
-### Random
-
-[[ViperBot]] - A Discord chatbot that posts relevant Viper the Rapper album covers
-
-[[Doomer]] - A delightfully toxic GPT-3 Davinci-based Discord chatbot
+[Github](https://github.com/jmilldotdev)
