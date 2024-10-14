@@ -8,6 +8,7 @@ related:
   - "[[AI Nomic]]"
   - "[[🗺️ Card Games|Card Games]]"
   - "[[🕸️ 1000 Blank White Cards|1000 Blank White Cards]]"
+  - "[[🗺️ Social Games|Social Games]]"
 publish: true
 ---
 

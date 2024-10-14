@@ -44,6 +44,13 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
+        
+        {/* Add the tracking code here */}
+        <script
+          defer
+          src="https://umami-tawny-theta.vercel.app/script.js"
+          data-website-id="016992b7-62de-4ef5-84aa-b0274ddaabb0"
+        />
       </head>
     )
   }

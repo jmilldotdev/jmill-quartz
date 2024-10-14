@@ -7,6 +7,7 @@ URL: https://boardgamegeek.com/boardgame/4550/1000-blank-white-cards
 related:
   - "[[AI Nomic]]"
   - "[[🗺️ Card Games|Card Games]]"
+  - "[[🗺️ Social Games|Social Games]]"
 publish: true
 ---
 
